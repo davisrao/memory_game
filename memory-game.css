@@ -1,0 +1,33 @@
+/* you can add to or change this. */
+
+#game div {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  display: inline-block;
+}
+
+.red{
+  background-color: red;
+}
+
+.green{
+  background-color: green;
+}
+
+.blue{
+  background-color:blue;
+}
+
+.orange{
+  background-color:orange;
+}
+
+.purple{
+  background-color:purple;
+}
+
+.noColor{
+  background-color:white;
+}
