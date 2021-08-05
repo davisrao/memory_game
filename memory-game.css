@@ -14,9 +14,6 @@ body h1{
   font-size:medium;
   font-family: 'Georama', sans-serif;
 }
-#game{
-  align-content: center;
-}
 
 #game div {
   border: 1px solid black;
