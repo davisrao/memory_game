@@ -99,7 +99,6 @@ function handleCardClick(e) {
     }else {
       setTimeout(resetSelected, FOUND_MATCH_WAIT_MSECS);
     }
-  console.log(lockBoard); 
   }
 
   // on flip of card -- count++, assign that card an id of card+count. then once count == 2 you check for win and if the c
